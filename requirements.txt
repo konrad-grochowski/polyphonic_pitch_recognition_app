@@ -1,0 +1,6 @@
+numpy>=1.18.3
+torch>=1.7.0
+scipy>=1.4.1
+pydub>=0.24.1
+MIDIUtil>=1.2.1
+midi2audio>=0.1.1
